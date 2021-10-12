@@ -1,3 +1,6 @@
+This project is a Hulu clone intended for learning React.js using Next.js, Tailwind CSS. 
+lecturer: Sonny Sangha https://www.youtube.com/watch?v=MqDlsjc8GLo
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
